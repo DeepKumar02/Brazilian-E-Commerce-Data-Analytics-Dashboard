@@ -1,0 +1,1 @@
+CREATE DATABASE E_Commerce_BI;
