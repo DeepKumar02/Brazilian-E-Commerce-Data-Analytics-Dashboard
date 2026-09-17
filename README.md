@@ -20,7 +20,7 @@ The project includes:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -34,7 +34,7 @@ The project includes:
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 
 **Source**
 
@@ -54,7 +54,7 @@ These datasets were cleaned using Python before loading into SQL Server.
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 ```text
 Raw Dataset (CSV)
@@ -77,9 +77,9 @@ Business Insights
 
 ---
 
-# 📈 Dashboard Pages
+## 📈 Dashboard Pages
 
-## 1️⃣ Executive Overview
+### 1️⃣ Executive Overview
 
 ![Executive Overview](Assets/Executive%20Overview.png)
 
@@ -95,7 +95,7 @@ Provides a summary of the business using key KPIs including:
 
 ---
 
-## 2️⃣ Revenue Trends & Performance
+### 2️⃣ Revenue Trends & Performance
 
 ![Revenue Dashboard](Assets/Revenue%20Trends%20and%20Performance.png)
 
@@ -108,7 +108,7 @@ This dashboard analyzes:
 
 ---
 
-## 3️⃣ Product Performance
+### 3️⃣ Product Performance
 
 ![Product Dashboard](Assets/Product%20Performace.png)
 
@@ -121,7 +121,7 @@ Key analyses include:
 
 ---
 
-## 4️⃣ Customer Insights
+### 4️⃣ Customer Insights
 
 ![Customer Dashboard](Assets/Customer%20Insights.png)
 
@@ -134,7 +134,7 @@ This dashboard focuses on:
 
 ---
 
-## 5️⃣ Payment & Seller Details
+### 5️⃣ Payment & Seller Details
 
 ![Payment Dashboard](Assets/Payments%20and%20Sellers%20Details.png)
 
@@ -147,7 +147,7 @@ Provides analysis of:
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 The dashboard includes the following business metrics:
 
@@ -162,7 +162,7 @@ The dashboard includes the following business metrics:
 
 ---
 
-# 🔍 Key Business Insights
+## 🔍 Key Business Insights
 
 - Generated **$15.22 Million** in total revenue.
 - Processed approximately **95,000 orders**.
@@ -174,7 +174,7 @@ The dashboard includes the following business metrics:
 
 ---
 
-# 🗄 Database Design
+## 🗄 Database Design
 
 The SQL Server database follows a Star Schema consisting of:
 
@@ -194,7 +194,7 @@ SQL Views were created to simplify business analysis and improve dashboard perfo
 
 ---
 
-# 🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 Python and Pandas were used for preprocessing the raw dataset.
 
@@ -208,7 +208,7 @@ The cleaning process included:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```
 Assets/
@@ -231,7 +231,7 @@ SQL/
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 Possible future enhancements include:
 
@@ -243,7 +243,7 @@ Possible future enhancements include:
 
 ---
 
-# 🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -257,7 +257,7 @@ Possible future enhancements include:
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Deep Kumar**
 
@@ -265,9 +265,5 @@ Bachelor of Computer Applications (BCA)
 
 AISECT University, Hazaribagh
 
-📧 Email: deepkumar.tech01@gmail.com
-
-
+### ⭐ If you found this project useful, consider giving it a Star.
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star.
